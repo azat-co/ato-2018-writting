@@ -11,10 +11,18 @@ autoscale: true
 * Eng. Leader @ Indeed, World's #1 Job Search Site
 * Live in San Fancisco Bay Area
 * Book and course author
-* #239 most active GitHub contributor
 * Paleo lifestyle enthusiast
 * Microsoft Most Valuable Professional
 * ex-Tech Fellow @ Capital One
+
+---
+
+## 239 most active GitHub contributor
+
+
+![fit](github1.png)
+
+^http://bit.ly/2PMa26I
 
 ---
 
@@ -42,7 +50,6 @@ autoscale: true
 
 ---
 
-
 ## 5 benefits of tech writing
 
 * Clears your thoughts
@@ -50,6 +57,22 @@ autoscale: true
 * Documentation for future
 * Extra income
 * Prestige
+
+---
+
+![fit](twitter.png)
+
+---
+
+![fit](mvp.png)
+
+---
+
+![fit](c1.jpg)
+
+---
+
+![fit](holy-js.jpg)
 
 ---
 
@@ -77,12 +100,12 @@ autoscale: true
 ## 7 Steps to Writing a Blog Post
 
 1. Come up with a topic
-1. Write an outline
-1. Iterate on the outline
-1. Write the post
-1. Iterate on the post
-1. Publish
-1. Engage with the audience
+2. Write an outline
+3. Iterate on the outline
+4. Write the post
+5. Iterate on the post
+6. Publish
+7. Engage with the audience
 
 ---
 
@@ -104,7 +127,11 @@ autoscale: true
 
 ---
 
-TK React Quickly and Apress Amazon best seller wins
+![fit](best-seller.jpg)
+
+---
+
+![fit](react-quickly-best-seller.jpg)
 
 ---
 
@@ -113,6 +140,7 @@ TK React Quickly and Apress Amazon best seller wins
 * 18 Books
 * Lots of top-sellers and Amazon best-sellers
 * Speaking and consulting gigs all over the world
+* Wrote first books in 2002
 
 ---
 
@@ -134,23 +162,40 @@ TK React Quickly and Apress Amazon best seller wins
 
 # Two way to publish a book
 
-* Self-publishing
-* Traditional publishing
+* Self-publishing: Leanpub, Pandoc, Amazon KDP
+* Traditional publishing: Apress, Manning, Wiley
+
+---
+
+# Would you like to be paid while you sleep?
+
+---
+
+![fit](RPJS-1.png)
 
 ---
 
 ## 10 Steps to writing a book
 
 1. Decide why you want to do it
-1. Come up with 2-3 topics
-1. Write blog posts
-1. Write proposals
-1. Start writing
-1. Hire tech editing
-1. Hire copy editing
-1. Publish
-1. Update
-1. Repeat
+2. Come up with 2-3 topics
+3. Write blog posts to validate
+4. Presell or write&submit proposals to validate
+5. Start writing
+6. Hire tech & copy editing
+7. Review
+8. Publish
+9. Update
+10. Repeat
+
+---
+
+![fit](kickstarter-1.png)
+
+---
+
+
+![fit](kickstarter-2.png)
 
 ---
 
@@ -166,7 +211,7 @@ TK React Quickly and Apress Amazon best seller wins
 
 ---
 
-![](apress.png)
+![](apress-2.png)
 
 <https://www.apress.com/us/write-for-us>
 
@@ -198,8 +243,13 @@ Most of your will never become good writers or publish anything substantial or p
 
 ---
 
+![fit](apress-3.png)
+
+---
+
 ## Further study
 
 * *Write Your Way to Success*
 * *Make money online with your webskills*
 * Find a coach
+
