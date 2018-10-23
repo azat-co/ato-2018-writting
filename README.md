@@ -144,7 +144,11 @@ autoscale: true
 
 ---
 
-![](whale-in-front-of-boat-1024x683.jpg)
+![fit](azats-books-covers.png)
+
+---
+
+![fit](whale-in-front-of-boat-1024x683.jpg)
 
 ---
 
@@ -211,7 +215,7 @@ autoscale: true
 
 ---
 
-![](apress-2.png)
+![fit](apress-2.png)
 
 <https://www.apress.com/us/write-for-us>
 
@@ -249,7 +253,7 @@ Most of your will never become good writers or publish anything substantial or p
 
 ## Further study
 
-* *Write Your Way to Success*
-* *Make money online with your webskills*
-* Find a coach
+* *Write Your Way to Success* (Apress, 2018)
+* *Using Your Web Skills to Make Money* (Apress, 2018)
+* Find a coach and/or mentor
 
