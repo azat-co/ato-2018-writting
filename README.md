@@ -257,3 +257,4 @@ Most of your will never become good writers or publish anything substantial or p
 * *Using Your Web Skills to Make Money* (Apress, 2018)
 * Find a coach and/or mentor
 
+^Take your cameras and take a picture
